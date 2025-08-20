@@ -47,8 +47,8 @@ html:
   baseurl: https://github.com/gdsfactory/gplugins
   options:
     logo:
-      light: "_static/logo_black.png"
-      dark: "_static/logo_white.png"
+      light: "_static/gdsf_logo_white.png"
+      dark: "_static/gdsf_logo_black.png"
 
 # Information about where the book exists on the web
 repository:
@@ -84,5 +84,5 @@ sphinx:
     #         - fmt: py
     html_theme_options:
       logo:
-        image_light: logo_white.png
-        image_dark: logo_black.png
+        image_light: gdsf_logo_black.png
+        image_dark: gdsf_logo_white.png
